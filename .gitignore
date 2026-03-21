@@ -1,0 +1,12 @@
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# VS Code
+.vscode/
